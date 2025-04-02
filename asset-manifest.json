@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deployecommercewp/static/css/main.e6c13ad2.css",
+    "main.js": "/deployecommercewp/static/js/main.7812868f.js",
+    "static/js/453.04391d1a.chunk.js": "/deployecommercewp/static/js/453.04391d1a.chunk.js",
+    "index.html": "/deployecommercewp/index.html",
+    "main.e6c13ad2.css.map": "/deployecommercewp/static/css/main.e6c13ad2.css.map",
+    "main.7812868f.js.map": "/deployecommercewp/static/js/main.7812868f.js.map",
+    "453.04391d1a.chunk.js.map": "/deployecommercewp/static/js/453.04391d1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7812868f.js"
+  ]
+}
