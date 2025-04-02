@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ShopEasy",
+  "name": "ShopEasy - PWA Ecommerce",
   "icons": [
     {
       "src": "favicon.ico",
